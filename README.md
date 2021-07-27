@@ -5,3 +5,8 @@
 [![](https://raw.githubusercontent.com/etaroid/etaroid/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=etaroid&layout=compact&theme=onedark)
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/etaroid/posts.svg)](http://qiita.com/etaroid)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/etaroid/contributions.svg)](http://qiita.com/etaroid)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/etaroid/followers.svg)](http://qiita.com/etaroid)
+                
